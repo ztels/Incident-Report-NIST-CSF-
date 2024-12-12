@@ -3,7 +3,7 @@
  ### [NIST CSF](https://www.nist.gov/cyberframework)
 
 <h2>Description</h2>
-Project consists of a scenario where a security event occured in an organization, and I, the analyst, performed an Incident Report Analysis by using teh NIST CS Framework.
+Project consists of a scenario where a security event occured in an organization, and I, the analyst, performed an Incident Report Analysis by using the NIST CS Framework.
 <br />
 
 
